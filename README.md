@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on : React and Data science projects using Python 
+🔭 I’m currently working on : Web projects using React & Data science projects using Python 
 
 💬 Ask me about my Projects, Life in SNU and Dancing
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=lenyakim's%20github&fontSize=90)
 
 
-<div align="center">
+<div align="left">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
