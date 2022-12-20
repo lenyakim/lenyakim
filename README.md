@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 💬 Ask me about my Projects, Life in SNU and Dancing
 
+⚡ View my projects : isc20_tteokbokki, book-recommendation, beafamily and more. 
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=lenyakim's%20github&fontSize=90)
 
 
